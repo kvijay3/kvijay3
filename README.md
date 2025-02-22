@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+First Year Computer Science and Engineering (B.S.) at UCLA
+My interest lie in Backend Engineering, Computation, and Biology
+
+I am always looking to hear about new projects! Feel free to reach out regarding anything
+
 <!--
 **kvijay3/kvijay3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
