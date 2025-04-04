@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 First Year Computer Science and Engineering (B.S.) at UCLA
-My interest lie in Backend Engineering, Computation, and Biology
+My interest lie in Backend Engineering, Machine Learning, and Biology
 
 I am always looking to hear about new projects! Feel free to reach out regarding anything
 
