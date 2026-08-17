@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Second Year Bioengineering (B.S.) at UCLA
+Third Year Bioengineering (B.S.) at UCLA
 My interest lie in Backend Engineering, Machine Learning, and Biology
 
 I am always looking to hear about new projects! Feel free to reach out regarding anything
